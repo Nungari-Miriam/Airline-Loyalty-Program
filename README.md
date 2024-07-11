@@ -1,4 +1,4 @@
-Airline Loyalty Program Analysis
+**Airline Loyalty Program Analysis**
 
 This project involved conducting a comprehensive analysis of an airline loyalty program to uncover patterns and identify opportunities for enhancing member engagement. Utilizing SQL, the analysis focused on two main datasets:
 
