@@ -28,7 +28,7 @@ Objective:
 The goal was to analyze the relationship between member demographics, flight activity, and loyalty program engagement metrics. Insights gained were used to propose strategies for improving member retention, enhancing loyalty program effectiveness, and optimizing customer satisfaction.
 
 Tools Used: 
-SQL
+SQL 
 
 Outcome: 
 Identified key trends and patterns in member behavior, highlighted opportunities for personalized member engagement strategies, and recommended enhancements to the loyalty program structure based on data-driven insights.
